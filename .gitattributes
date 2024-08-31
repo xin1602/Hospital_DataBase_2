@@ -1,0 +1,12 @@
+*.git/* linguist-vendored
+*.gitattributes linguist-vendored
+*.gitignore linguist-vendored
+*.jpg linguist-vendored
+*.md linguist-vendored
+*.pdf linguist-vendored
+*.png linguist-vendored
+*.sample linguist-vendored
+*.sh linguist-vendored
+*.txt linguist-vendored
+
+.sql linguist-language=SQL
