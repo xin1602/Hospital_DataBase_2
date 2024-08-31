@@ -10,3 +10,4 @@
 *.txt linguist-vendored
 
 
+.sql linguist-language=SQL
