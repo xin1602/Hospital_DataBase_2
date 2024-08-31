@@ -9,4 +9,4 @@
 *.sh linguist-vendored
 *.txt linguist-vendored
 
-.sql linguist-language=SQL
+
